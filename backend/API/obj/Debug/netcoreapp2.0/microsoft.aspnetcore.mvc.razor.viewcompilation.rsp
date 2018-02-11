@@ -1,0 +1,5 @@
+/home/ilya/Documents/projects/padzieja/backend
+--output-path=obj/Debug/netcoreapp2.0/
+--application-name=backend
+--content-root=/home/ilya/Documents/projects/padzieja/backend
+--file=
